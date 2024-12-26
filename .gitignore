@@ -1,0 +1,4 @@
+deployment/supervisor/credentials.env
+homematic-powerfox/homematic-powerfox-arm
+homematic-sma-web/homematic-sma-web-arm
+homematic-stromgedacht/homematic-stromgedacht-arm
